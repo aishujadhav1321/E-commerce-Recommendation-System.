@@ -1,0 +1,16 @@
+UserID,ProductID,ProductName,Category,Rating,PurchaseCount,Price
+1,101,iPhone 14,Electronics,5,3,80000
+1,102,AirPods Pro,Electronics,4,2,15000
+1,103,Samsung Watch,Accessories,4,1,12000
+2,104,Nike Shoes,Fashion,5,4,5000
+2,105,Adidas T-Shirt,Fashion,3,2,1200
+2,106,Puma Cap,Fashion,4,1,800
+3,107,Dell Laptop,Electronics,5,2,70000
+3,108,Logitech Mouse,Electronics,4,3,1500
+3,109,Keyboard,Electronics,4,2,2500
+4,110,Rolex Watch,Accessories,5,1,25000
+4,111,Leather Bag,Fashion,4,2,3500
+4,112,Sunglasses,Accessories,3,1,2000
+5,113,Boat Headphones,Electronics,5,5,3000
+5,114,Smart TV,Electronics,4,1,45000
+5,115,Tablet,Electronics,4,2,25000
